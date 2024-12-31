@@ -11,8 +11,8 @@
 </p>
 
 *Come here!*<br>
-<a href="https://diligent-trout-f35.notion.site/1461d838d37c8001a41ae2d2a64dc77a?pvs=4" target="_blank">📄Resume</a><br>
-<a href="https://diligent-trout-f35.notion.site/1451d838d37c80f2b173e80cee21b02f?pvs=4" target="_blank">📚My Study book</a>
+<a href="https://diligent-trout-f35.notion.site/1451d838d37c80f2b173e80cee21b02f?pvs=4" target="_blank">📄Resume</a>
+<a href="https://diligent-trout-f35.notion.site/1461d838d37c8001a41ae2d2a64dc77a?pvs=4" target="_blank">📚My Study book</a><br>
 
 <h4>🛠️Skills</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monica-Jang&layout=compact">
