@@ -1,7 +1,7 @@
 <h4>👩‍💻About Me</h4>
 <p>안녕하세요!</p>
 <p>
-  OTA마케팅을 하다가 코딩의 매력에 빠져 개발자의 길을 걷고 있는 <strong>Monica</strong>입니다.<br>
+  OTA플랫폼에서 서비스 기획 및 마케팅을 하다가 코딩의 매력에 빠져 개발자의 길을 걷고 있는 <strong>Monica</strong>입니다.<br>
   Java와 Spring을 중심으로 몇 가지 프로젝트를 진행하며 성장하고 있습니다.
 </p>
 <p>
