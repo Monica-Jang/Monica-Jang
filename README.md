@@ -11,9 +11,9 @@
 </p>
 
 *Come here!*<br>
-<a href="https://diligent-trout-f35.notion.site/1451d838d37c80f2b173e80cee21b02f?pvs=4" target="_blank">📄Resume</a><br>
-<a href="https://www.canva.com/design/DAGcPOmJztk/dYmmzyp8D698zemxtM7SyQ/view?utm_content=DAGcPOmJztk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8147e9f916" target="_blank">📔Portfolio</a><br>
-<a href="https://diligent-trout-f35.notion.site/1461d838d37c8001a41ae2d2a64dc77a?pvs=4" target="_blank">📚My Study book</a>
+<a href="https://diligent-trout-f35.notion.site/1451d838d37c80f2b173e80cee21b02f?pvs=4">📄Resume</a><br>
+<a href="https://www.canva.com/design/DAGcPOmJztk/dYmmzyp8D698zemxtM7SyQ/view?utm_content=DAGcPOmJztk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8147e9f916">📔Portfolio</a><br>
+<a href="https://diligent-trout-f35.notion.site/1461d838d37c8001a41ae2d2a64dc77a?pvs=4">📚My Study book</a>
 
 <h4>🛠️Skills</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monica-Jang&layout=compact">
